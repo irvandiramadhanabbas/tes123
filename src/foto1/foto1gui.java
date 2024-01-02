@@ -1,2 +1,4 @@
-package foto1;public class foto1gui {
+package foto1;
+
+public class foto1gui {
 }
